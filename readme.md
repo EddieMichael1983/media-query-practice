@@ -12,7 +12,7 @@ A brief text introduction to Media Queries. Changing the width of the viewport w
 
 * _Step 1: Open the file in a Web Browser
 * _Step 2: Read the intro to Media Queries
-* _Step 3: Change the width of your browser window to see it change background colors based on CSS rules.  
+* _Step 3: Change the width of your browser window to see it change background colors based on CSS rules  
 
 ## Known Bugs
 
